@@ -8,7 +8,7 @@
 ## 使い方
 
 * `tex-color`をインストール
-* TeX文書のブリアンブルに$\usepackage{color}$を記述
+* TeX文書のブリアンブルに`\usepackage{color}`を記述
 * 赤字にしたいテキスト`XXX`を選択した状態で，`ctrl`+`alt`+`R`で，以下のようにテキストが挿入される
 
 ```
