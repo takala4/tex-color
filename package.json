@@ -5,7 +5,7 @@
   "activationCommands": {
     "atom-workspace": "tex-color:coloring"
   },
-  "repository": "https://github.com/atom/tex-color",
+  "repository": "https://github.com/takala4/tex-color",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
