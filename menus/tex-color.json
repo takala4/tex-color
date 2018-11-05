@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle tex-color",
-        "command": "tex-color:toggle"
+        "command": "tex-color:coloring"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "tex-color",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "tex-color:toggle"
+              "label": "coloring",
+              "command": "tex-color:coloring"
             }
           ]
         }
