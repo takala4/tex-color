@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle tex-color",
+        "command": "tex-color:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tex-color",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tex-color:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
