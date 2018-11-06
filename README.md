@@ -1,15 +1,25 @@
 # tex-color 
 
-## 用途
+* This is the **[Atom](https://atom.io/)** package. 
+* This package can insert `\textcolor` command using keybord shortcut.
+* You can find the code in **[https://github.com/takala4/tex-color](https://github.com/takala4/tex-color)**
 
-* Atomエディタの自作プラグイン
-* キーボードショートカットで，TeX文章の`\textcolor{red}{}`コマンドを挿入できる
+## Demo
 
-## 使い方
+Coming Soon
 
-* `tex-color`をインストール
-* TeX文書のブリアンブルに`\usepackage{color}`を記述
-* 赤字にしたいテキスト`XXX`を選択した状態で，`ctrl`+`alt`+`R`で，以下のようにテキストが挿入される
+## Installing
+
+* You can install **tex-color** in Atom.
+    * `Setting` -> `Install` -> serch **tex-color** -> Select `Install`
+* Other way, you can also download as local package from **[https://github.com/takala4/tex-color](https://github.com/takala4/tex-color)**
+
+
+## How to use 
+
+* This Atom package `tex-color` uses TeX package `color`.
+* So the package `color` is imported with  `\usepackage{color}`
+* When you select text `XXX` that is wanted to make in red and type `ctrl`+`alt`+`R`,  `\textcolor` command is inserted as follows
 
 ```
 \textcolor{red}{
@@ -17,5 +27,7 @@ XXX
 }
 ```
 
-* 複数行でも可能
+## Future
+
+* Multiple colors are can be selected.
 
