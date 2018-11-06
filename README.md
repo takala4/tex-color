@@ -11,8 +11,8 @@ Coming Soon
 ## Installing
 
 * You can install **tex-color** in Atom.
-    * `Setting` -> `Install` -> serch **tex-color** -> Select `Install`
-* Other way, you can also download as local package from **[https://github.com/takala4/tex-color](https://github.com/takala4/tex-color)**
+    * `Setting` -> `Install` -> search **`tex-color`** -> Select `Install`
+* In another way, you can also download as local package from **[https://github.com/takala4/tex-color](https://github.com/takala4/tex-color)**
 
 
 ## How to use 
