@@ -6,7 +6,7 @@
 
 ## Demo
 
-Coming Soon
+![demo](https://github.com/takala4/tex-color/blob/master/docs/demo.gif)
 
 ## Installing
 
