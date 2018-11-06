@@ -1,12 +1,12 @@
-# tex-color 
+# tex-color
 
-* This is the **[Atom](https://atom.io/)** package. 
+* This is the **[Atom](https://atom.io/)** package.
 * This package can insert `\textcolor` command using keybord shortcut.
 * You can find the code in **[https://github.com/takala4/tex-color](https://github.com/takala4/tex-color)**
 
 ## Demo
 
-![demo](https://github.com/takala4/tex-color/blob/master/docs/demo.gif)
+![demo](https://github.com/takala4/tex-color/demo.gif)
 
 ## Installing
 
@@ -15,7 +15,7 @@
 * In another way, you can also download as local package from **[https://github.com/takala4/tex-color](https://github.com/takala4/tex-color)**
 
 
-## How to use 
+## How to use
 
 * This Atom package `tex-color` uses TeX package `color`.
 * So the package `color` is imported with  `\usepackage{color}`
@@ -30,4 +30,3 @@ XXX
 ## Future
 
 * Multiple colors are can be selected.
-
