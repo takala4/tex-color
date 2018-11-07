@@ -6,7 +6,8 @@
 
 ## Demo
 
-![demo](https://github.com/takala4/tex-color/blob/master/demo.gif)
+![Imgur](https://i.imgur.com/55Ij80M.gif)
+
 
 ## Installing
 
