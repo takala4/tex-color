@@ -1,7 +1,7 @@
 {
   "name": "tex-color",
   "main": "./lib/tex-color",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "activationCommands": {
     "atom-workspace": "tex-color:coloring"
   },
