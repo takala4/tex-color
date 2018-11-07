@@ -1,7 +1,8 @@
 # tex-color
 
+This package can insert `\textcolor` TeX command using keybord shortcut.
+
 * This is the **[Atom](https://atom.io/)** package.
-* This package can insert `\textcolor` command using keybord shortcut.
 * You can find the code in **[https://github.com/takala4/tex-color](https://github.com/takala4/tex-color)**
 
 ## Demo
